@@ -1,0 +1,5 @@
+Dataset for captions, annotations and corresponding Image ID :-
+http://images.cocodataset.org/annotations/annotations_trainval2014.zip
+
+Dataset for Images :-
+http://images.cocodataset.org/zips/val2014.zip
