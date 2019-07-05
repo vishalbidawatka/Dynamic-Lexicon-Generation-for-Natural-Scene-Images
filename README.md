@@ -1,4 +1,16 @@
 # Dynamic-Lexicon-Generation-for-Natural-Scene-Images
+### Introduction
+Many scene text understanding methods approach the endto-end recognition problem from a word-spotting perspective and take
+huge benefit from using small per-image lexicons. Such customized lexicons are normally assumed as given and their source is rarely discussed.
+In this project we propose a method that generates contextualized lexicons for scene images using only visual information. For this, we exploit the correlation between visual and textual information in a dataset consisting of images and textual content associated with them. Using the topic modeling framework to discover a set of latent topics in such a
+dataset allows us to re-rank a fixed dictionary in a way that prioritizes
+the words that are more likely to appear in a given image. Moreover,
+we train a CNN that is able to reproduce those word rankings but using
+only the image raw pixels as input. We demonstrate that the quality
+of the automatically obtained custom lexicons is superior to a generic
+frequency-based baseline.
+
+
 
 Dependencies
 -----
