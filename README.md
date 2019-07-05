@@ -10,6 +10,13 @@ only the image raw pixels as input. We demonstrate that the quality
 of the automatically obtained custom lexicons is superior to a generic
 frequency-based baseline.
 
+#### Here is the link for the presentation on prezi
+https://prezi.com/view/vvklNORa4kEiHcX3lA5z/
+
+## Results
+![alt text](https://github.com/vishalbidawatka/Dynamic-Lexicon-Generation-for-Natural-Scene-Images/blob/master/smai_project_images/1.png)
+![alt text](https://github.com/vishalbidawatka/Dynamic-Lexicon-Generation-for-Natural-Scene-Images/blob/master/smai_project_images/download.png)
+![alt text](https://github.com/vishalbidawatka/Dynamic-Lexicon-Generation-for-Natural-Scene-Images/blob/master/smai_project_images/download%20(1).png)
 
 
 Dependencies
@@ -21,7 +28,7 @@ Dependencies
 ### Reference of ResearchPaper
 https://github.com/vishalbidawatka/Dynamic-Lexicon-Generation-for-Natural-Scene-Images/blob/master/PGR2016.pdf
 
-##### Firstly ,we will suggest you to go through the research paper
+##### Firstly, we will suggest you to go through the research paper
 
 How to Run
 ----
@@ -35,11 +42,9 @@ How to Run
 
 
 #### If you don't want to train the model
-We already dump the model object , you can read the model object and run the code.
+We have already dumped the model object , you can read the model object and run the code.
 
 
-#### Here is the link for the presentation on prezi
-https://prezi.com/view/vvklNORa4kEiHcX3lA5z/
 
 
 
